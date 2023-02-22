@@ -10,7 +10,7 @@ public class Main {
     public static void main(String[] args) {
 
         double salario = 3000.00;
-        /*double salario1 = 1250.00;*/
+    
         double desconto = 0; // variável inicializada//
         /*double salario2 = 2000.00;
         double desconto2 = (salario2 * 0.1);
