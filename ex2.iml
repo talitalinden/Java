@@ -1,0 +1,9 @@
+/* Elabore um programa que verifique se o aluno está aprovado, reprovado ou na final.
+//Para isso, o sistema deve saber as 3 notas, calcular a média e exibir a média
+//e exibir a situação. Aprovado > 70, reprovado < 40*/.
+
+public class Main {
+
+
+
+
